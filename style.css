@@ -1,0 +1,31 @@
+#section-1{
+	animation-delay: 0s;
+	animation-duration: 2s;
+}
+.my-img{
+	float: left;
+position: relative;
+border-radius: 50%;
+width: 100px;
+height: 100px;
+margin-bottom: 1px;
+padding: 3px;
+background: white;
+}
+#section-2{
+	animation-delay: 1s;
+	animation-duration: 2s;
+}
+#section-3{
+	animation-delay: 2s;
+	animation-duration: 2s;
+}
+#section-4{
+	animation-delay: 3s;
+	animation-duration: 2s;
+}
+#section-5{
+	animation-delay: 3s;
+	animation-duration: 2s;
+}
+
